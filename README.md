@@ -90,9 +90,10 @@ By implementing these insights, Lending Club can improve its portfolio performan
 
 ## Acknowledgements
 
-- [NumPy Official Site](https://pypi.org/project/numpy/)
-- [Seaborn Official Site](https://seaborn.pydata.org/)
 - [Pandas Official Site](https://pandas.pydata.org/)
+- [Seaborn Official Site](https://seaborn.pydata.org/)
+- [Matplotlib Official Site](https://matplotlib.org/)
+- [NumPy Official Site](https://pypi.org/project/numpy/)
 
 ## Contact
 
